@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hudie.jpg</file>
+        <file>hudie.png</file>
+        <file>1.png</file>
+        <file>line.png</file>
+    </qresource>
+</RCC>
